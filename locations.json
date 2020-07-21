@@ -1,0 +1,143 @@
+[
+    {
+        "name": "Milton Library",
+        "street": "855 Mayfield Road",
+        "city": "Milton",
+        "state": "GA",
+        "zipcode": "30009"
+    },
+    {
+        "name": "Alpharetta Library",
+        "street": "10 Park Plaza",
+        "city": "Alpharetta",
+        "state": "GA",
+        "zipcode": "30009"
+    },
+    {
+        "name": "Roswell Library",
+        "street": "115 Norcross Street",
+        "city": "Roswell",
+        "state": "GA",
+        "zipcode": "30009"
+    },
+    {
+        "name": "Robert F. Fulton Ocee Library",
+        "street": "5090 Abbotts Bridge Road",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zipcode": "30005"
+    },            
+    {
+        "name": "Northeast / Spruill Oaks Library",
+        "street": "9560 Spruill Road",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zipcode": "30022"
+    },            
+    {
+        "name": "East Roswell Library",
+        "street": "2301 Holcomb Bridge Road",
+        "city": "Roswell",
+        "state": "GA",
+        "zipcode": "30076"
+    },
+    {
+        "name": "Sandy Springs Library",
+        "street": "395 Mount Vernon Highway NE",
+        "city": "Sandy Springs",
+        "state": "GA",
+        "zipcode": "30328"
+    },
+    {
+        "name": "Northside Library",
+        "street": "3295 Northside Parkway NW",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipcode": "30327"
+    },
+    {
+        "name": "Buckhead Library",
+        "street": "269 Buckhead Avenue NE",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipcode": "30305"
+    },
+    {
+        "name": "Northwest Library at Scotts Crossing",
+        "street": "2489 Perry Boulevard NW",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipcode": "30318"
+    },
+    {
+        "name": "Ponce De Leon Library",
+        "street": "980 De Leon Avenue NE",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipcode": "30306"
+    },
+    {
+        "name": "State Farm Arena",
+        "street": "1 State Farm Drive",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipcode": "30303"
+    },
+    {
+        "name": "C.T. Martin Natatorium and Recreation Center",
+        "street": "3201 Martin Luther King Jr. Drive SW",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipcode": "30311"
+    },
+    {
+        "name": "Louise Watley Library at Southeast Atlanta",
+        "street": "1463 Pryor Road SW",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipcode": "30318"
+    },
+    {
+        "name": "Wolf Creek Library",
+        "street": "3100 Enon Road SW",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipcode": "30331"
+    },
+    {
+        "name": "College Park Library",
+        "street": "3647 Main Street",
+        "city": "College Park",
+        "state": "GA",
+        "zipcode": "30337"
+    },
+    {
+        "name": "South Fulton Service Center",
+        "street": "5600 Stonewall Tell Road",
+        "city": "College Park",
+        "state": "GA",
+        "zipcode": "30349"
+    },
+    {
+        "name": "Gladys S. Dennard Library at South Fulton",
+        "street": "4055 Flat Shoals Road",
+        "city": "Union City",
+        "state": "GA",
+        "zipcode": "30291"
+    },
+    {
+        "name": "New Beginnings Senior Center",
+        "street": "66 Brooks Drive",
+        "city": "Fairburn",
+        "state": "GA",
+        "zipcode": "30213"
+    },
+    {
+        "name": "Palmetto Library",
+        "street": "9111 Cascade Palmetto Highway",
+        "city": "Palmetto",
+        "state": "GA",
+        "zipcode": "30268",
+        "special": "Open only Mon 8/3 to Fri 8/7"
+    }
+]
